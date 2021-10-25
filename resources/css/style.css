@@ -12,7 +12,7 @@
 	font-family: 'Gilroy', sans-serif;
 }
 html {
-	font-size: 16px;
+	font-size: 17px;
 }
 .hide {
 	display: none;
@@ -168,7 +168,7 @@ main {
 }
 .search-box input {
 	width: 360px;
-	height: 25px;
+	height: 28px;
 
 	border: none;
 
@@ -189,13 +189,13 @@ main {
 	display: flex;
 
 	position: absolute;
-	top: 30px;
+	top: 31px;
 
 	width: 400px;
-	height: 300px;
+	height: 310px;
 
 	background-color: #111;
-	opacity: 0.9;
+	opacity: 0.8;
 
 	overflow-y: scroll;
 }
@@ -207,7 +207,7 @@ main {
 .country-list ul li {
 	list-style: none;
 	cursor: pointer;
-	padding: 10px;
+	padding: 11px;
 	color: #fff;
 }
 .country-list ul li:hover {
